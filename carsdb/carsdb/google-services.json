@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "68539710274",
+    "project_id": "warehouse-c1019",
+    "storage_bucket": "warehouse-c1019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68539710274:android:ef4f750deb23e6bcf5e6db",
+        "android_client_info": {
+          "package_name": "me.sklinn.warehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68539710274-760jo3chuotdfhtpf628l13lnqr06c8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.sklinn.warehouse",
+            "certificate_hash": "e6084e222dae3c757906333323ed5957d21e7c0d"
+          }
+        },
+        {
+          "client_id": "68539710274-2pthrso7vrlc702t8nn4e9605ht7isg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCZhO03MRbF8zt_tXIMyzCIXs5ZlnWDvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68539710274-2pthrso7vrlc702t8nn4e9605ht7isg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
